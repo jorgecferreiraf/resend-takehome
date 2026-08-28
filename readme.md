@@ -38,7 +38,7 @@ yarn
 
 Install Resend Node.JS SDK:
 ```bash
-`npm install resend`
+npm install resend
 ```
 
 Run Next.js locally:
@@ -101,5 +101,3 @@ export async function POST() {
 ## 6. Test
 Send a cURL request to:
 `curl -X POST http://localhost:3000/api/send`
-
-`
