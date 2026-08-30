@@ -101,5 +101,3 @@ export async function POST() {
 ## 6. Test
 Send a cURL request to:
 `curl -X POST http://localhost:3000/api/send`
-
-Note: The API Key generated in my profile is hosted my local machine to avoid leaking. I uploaded an env.example file to stand there as an example for the project's structure.
