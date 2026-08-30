@@ -1,4 +1,4 @@
-Implementing Resend with Next.js
+## Implementing Resend with Next.js
 
 This projects guides on how to test the email deliverability via API route using Next.js and Resend.
 
